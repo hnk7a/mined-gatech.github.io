@@ -23,9 +23,18 @@ Abdul is interested in establishing cross-disciplinary collaborations at the int
 **Research Interests**
 
 * Materials Informatics
-* Data Science
+* Data Mining
 * Interactive Computing
 * Parallel Computing
+
+**Work Environment**
+
+* MATLAB, C++ and Python
+
+**Current Projects**
+* Materials Informatics
+* MATIN: An e-collaboration platform for materials scientists
+* MOOC: Online course development on materails informatics 
 
 **Contact Info**
 
