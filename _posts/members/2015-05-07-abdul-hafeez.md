@@ -14,7 +14,7 @@ author:
   url: http://ahafeez7.github.io/ # Optional
 ---
 
-Abdul is a Postdoctoral Fellow in the MINED research group at Georgia Tech. Currently, he is pursuing research in materials informatics and leading the efforts of matIN; a collaborative plaform for innovative materials research -- an effort towards building an online community. This enatails interactive computing and collaborations with Human Computer Interaction experts. Furthermore, he is also exploring the impact of data science in materials science. 
+Abdul is a Postdoctoral Fellow in the MINED research group at Georgia Tech. Currently, he is pursuing research in materials informatics and leading the efforts of matIN; a collaborative plaform for innovative materials research -- an effort towards building an online community. This entails interactive computing and collaborations with Human Computer Interaction experts. Furthermore, he is also exploring the impact of data science in materials science. 
 
 Prior to GT, Abdul did his PhD in Computer Science at Virginia Tech, where he designed and developed software frameworks for efficiently extracting useful patterns (DNA and human cells) in the raw data emerging from bionano sensing for useful decision making. In his PhD, he also explored the impact of distributed frameworks for accelearting proteins simulation problem in collaboration with University of Texas, Arlington and IBM Almaden and IBM Dublin. 
 
@@ -29,9 +29,10 @@ Abdul is interested in establishing cross-disciplinary collaborations at the int
 
 **Work Environment**
 
-* MATLAB, C++ and Python
+* MATLAB, C++, and Python
 
 **Current Projects**
+
 * Materials Informatics
 * MATIN: An e-collaboration platform for materials scientists
 * MOOC: Online course development on materails informatics 
