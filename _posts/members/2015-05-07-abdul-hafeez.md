@@ -35,7 +35,7 @@ Abdul is interested in establishing cross-disciplinary collaborations at the int
 
 * Materials Informatics
 * MATIN: An e-collaboration platform for materials scientists
-* MOOC: Online course development on materails informatics 
+* MOOC: An online course development on materails informatics 
 
 **Contact Info**
 
