@@ -8,7 +8,7 @@ author:
   name: Abdul Hafeez
   role: Data Scientist / Material Informatics 
   gplus: 101348383208228664859 # Optional
-   image: /images/avatars/no-male.png
+  image: /images/avatars/no-male.png
   #linkedin: ahmet-cecen/19/3b4/169/en # Optional
   github: ahafeez7 # Optional
   url: http://ahafeez7.github.io/ # Optional
@@ -23,7 +23,6 @@ Abdul is interested in establishing cross-disciplinary collaborations at the int
 * Materials Informatics
 * Data Mining
 * Interactive Computing
-* Parallel Computing
 
 **Work Environment**
 
