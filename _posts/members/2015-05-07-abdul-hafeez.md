@@ -8,6 +8,7 @@ author:
   name: Abdul Hafeez
   role: Data Scientist / Material Informatics 
   gplus: 101348383208228664859 # Optional
+  image: http://
   #linkedin: ahmet-cecen/19/3b4/169/en # Optional
   github: ahafeez7 # Optional
   url: http://ahafeez7.github.io/ # Optional
