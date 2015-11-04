@@ -7,7 +7,6 @@ tags: post # here write either ug,grad,post,faculty  ug is undergraduate, grad s
 author:
   name: Abdul Hafeez
   role: Data Scientist / Material Informatics 
-  #image: /images/avatars/hafeez.png
   gplus: 101348383208228664859 # Optional
   #linkedin: ahmet-cecen/19/3b4/169/en # Optional
   github: ahafeez7 # Optional
