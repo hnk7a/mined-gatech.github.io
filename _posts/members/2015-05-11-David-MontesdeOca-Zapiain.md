@@ -14,14 +14,19 @@ author:
   url:  # Optional
 ---
 
-David Montes de Oca Z. is currently pursuing a PhD in Mechanical Engineering at Georgia Institute of Technology.  He earned his bachelor’s degree in Mechanical Engineering form the Georgia Institute of Technology in December 2014. He started GRAD School in Georgia Tech Lorraine, Georgia Tech's Satellite Campus in France. David has little experience in research nevertheless he has a strong Professional Experience. He has done a Co-op with Toyota Motor Manufacturing and an Internship with Nissan North America. This partnered with his multicultutral experience, since he has performed studies abroad in top notch universities in France and China, has tuned his analytical skills and his ability to solve complex problems by using a progression of reasonable, attainable and measurable solutions and to approach a problem with a globally oriented mindset. His current Research Focus is in finding a viable substitute for the Lead-Tin Solder Alloys by an intercalation of Multiscale Simulations and experimentation. 
+David Montes de Oca Zapiain is currently pursuing a PhD in Mechanical Engineering at the Georgia Institute of Technology.
+All his higher education degrees have been obtained from the Georgia Institute of Technology. He earned his Bachelor’s degree, with Highest Institutional Honors, in Mechanical Engineering in 2014 and in 2015 he obtained his Master’s Degree in Mechanical Engineering as well. It is important to mention that a great portion of his Master’s Studies where performed in the European Campus of Georgia Tech in France. 
+Before his Graduate Degrees David worked for Toyota Motor Manufacturing and Nissan North America in their US headquarters. He also has performed various study abroad experiences with top-notch universities in France and in China. These experiences paired with his knowledge in Mechanical Engineering have tuned his analytical skills and his ability to solve complex problems. Also they allow him to approach and solve a problem with a Globally Oriented Mindset. 
+The goal of David Montes de Oca Zapiain’s research is to increase the speed and accuracy at which multiscale metal-plasticity simulations are performed. He specifically intends to provide a rigid bridging scheme between macroscopic J2 flow theory based finite element simulations and microscopic crystal plasticity based finite element simulations. 
+He will achieve this goal by developing a fast, accurate and computationally efficient surrogate model for Crystal Plasticity Finite element simulations. This surrogate model will be developed by implementing the new Material Knowledge Systems Framework pioneered by the MINED Research group. The first iteration in the development of this scheme is to implement MKS to accurately predict the deformation of a perfectly plastic 2-phase composite. 
+
 
 **Research Interests**
 
 * Materials Informatics
 * Big Data Analytics
 * Multiscale Simulations
-* Lead-free solders
+
 
 **Work Environment:** Mainly MATLAB
 
@@ -29,10 +34,12 @@ David Montes de Oca Z. is currently pursuing a PhD in Mechanical Engineering at 
 
 **Current Projects**
 
-* Development of suitable lead free solder alloys. 
+* MKS Plasticity for 2 Phase Composite
+* MKS for Crystal Plasticity Finite Element Simulations
+* Process Structure Linkage for Grain Boundary Pinned Grain Growth
 
 **Contact Info**
 
 * E-mail: dmo7@gatech.edu
-* Cell: +330783396905
+* Cell: +16788605917
 * Skype: dmozapiain2001
